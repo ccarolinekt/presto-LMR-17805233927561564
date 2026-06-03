@@ -1,0 +1,44 @@
+{
+  "groups": [
+    {
+      "groupId": 0,
+      "records": [
+        {
+          "tsid": "Arc_032",
+          "dataSetName": "Arc-Agassiz.Vinther.2008",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC09KA7901A",
+          "dataSetName": "IC09KA79",
+          "decision": "remove"
+        },
+        {
+          "tsid": "IC95FI8701A",
+          "dataSetName": "IC95FI87",
+          "decision": "keep"
+        }
+      ],
+      "notes": "Eliminate earlier version"
+    },
+    {
+      "groupId": 1,
+      "records": [
+        {
+          "tsid": "Arc_151",
+          "dataSetName": "Arc-PrinceOfWales.Kinnard.2011",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC11KIPW01A",
+          "dataSetName": "IC11KIPW",
+          "decision": "remove"
+        }
+      ],
+      "notes": "Eliminate earlier version"
+    }
+  ],
+  "datasetNotes": {
+    "Arc-BigRoundLake.Thomas.2009": "Eliminate earlier version"
+  }
+}
